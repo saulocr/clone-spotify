@@ -4,5 +4,13 @@
 
     /* COLORS */
     --bg-icon: #131313;
-    --bg-arrow-color: rgba(0,0,0,7)
+    --bg-arrow-color: rgba(0,0,0,7);
+    --bg-base-nav: #121212;
+    --bg-nav-light: #242424;
+
+    --text-base-dark: #000;
+    --text-base-light: #fff;
+    --text-sub: #a7a7a7;
+    --text-base-nav: #b3b3b3;
+
 }
