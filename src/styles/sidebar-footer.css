@@ -178,11 +178,9 @@ body{
     padding: 15px 40px;
     display: flex;
     justify-content: space-between;
-    margin: 0 10px 10px 12px;
+    margin: 0 56px 10px 12px;
 }
-.disclaimer-premium .text {
-   flex-shrink: 0;
-}
+
 .disclaimer-premium .disclaimer-premium__title {
     color: var(--text-base-light);
     font-weight: bold;
